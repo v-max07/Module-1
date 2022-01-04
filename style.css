@@ -156,4 +156,7 @@ form .button input:hover{
         max-width: 300px;
         overflow-y:scroll;
     }
+    .user-details::-webkit-scrollbar{
+        width: 0;
+    }
 }
